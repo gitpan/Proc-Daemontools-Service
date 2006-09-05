@@ -7,4 +7,6 @@ lib/Proc/Daemontools/Service.pm
 t/00-load.t
 t/pod-coverage.t
 t/pod.t
+t/service.t
+lib/Proc/Daemontools/Service/Test.pm
 META.yml                                 Module meta-data (added by MakeMaker)
